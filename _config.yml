@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Anthony Galczak"
 title_separator          : "-"
 name                     : &name "Anthony Galczak"
-description              : &description "This is a beautiful description!"
+description              : &description "Homepage for Anthony Galczak"
 url                      : https://anthonygalczak.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Austin, TX"
   employer         : "Microsoft"
   uri              : # URL
-  email            : # "wgalczak@gmail.com"
+  email            : "wgalczak@gmail.com" # &#119;&#103;&#097;&#108;&#099;&#122;&#097;&#107;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,8 +43,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "Chudbrochil"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : "wgalczak"  
+  stackoverflow    : "4589719/chudbrochil" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
