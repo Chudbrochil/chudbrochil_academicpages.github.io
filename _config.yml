@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/anthony_panda2.jpg"
+  avatar           : "profile.png" #"images/anthony_panda2.jpg"
   name             : "Anthony Galczak"
   pronouns         : # example: "she/her"  
   bio              : "Anthony Galczak is passionate about Machine Learning, Data Science, and Software Engineering."
