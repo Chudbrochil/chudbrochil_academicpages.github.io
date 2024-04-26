@@ -1,5 +1,5 @@
 ---
-title: "TODO: Here will be the portfolio for Anthony Galczak!"
+title: "No portfolio yet! :)"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
