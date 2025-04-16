@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-stanford-ca
 venue: "Stanford University, Computer Science"
-date: 2019, 2020, 2021
+date: 2019-09-01
 location: "Stanford, CA"
 ---
 
