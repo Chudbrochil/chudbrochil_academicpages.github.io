@@ -87,7 +87,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 225px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -106,7 +106,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
+    width: 175px;
     padding-left: 0;
     padding-right: 0;
   }
@@ -147,6 +147,9 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    width: 175px;
+    display: block;
+    word-wrap: break-word;
   }
 }
 
