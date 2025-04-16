@@ -1,13 +1,10 @@
 ---
 permalink: /
-title: "Homepage for Anthony Galczak"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Anthony Galczak
 
 Anthony Galczak is a results-driven machine learning engineer and applied scientist with deep expertise in causal inference, large-scale experimentation, and modern AI systems. A Stanford-trained computer scientist, Anthony brings a strong blend of scientific rigor and engineering execution to every project.
 
