@@ -22,6 +22,11 @@ He is currently exploring new opportunities as an Applied Scientist, Research En
 
 ## Beyond Work
 
-Outside of work, Anthony enjoys scuba diving, strength training, and traveling to explore new cultures and cuisines. He’s a dedicated learner who spends downtime exploring foundational ML papers and new reasoning models. He’s always on the lookout for good espresso and a better home office setup. Anthony lives with his fiancée and their two dogs.
+Outside of work, Anthony enjoys scuba diving, strength training, and traveling to explore new cultures and cuisines. He's a dedicated learner who spends downtime exploring foundational ML papers and new reasoning models. He's always on the lookout for good espresso and a better home office setup. Anthony lives with his fiancée and their two dogs.
+
+<div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
+  <img src="/images/anthony_gun.jpg" alt="Anthony" style="width: 300px; height: auto;">
+  <img src="/images/anthony_shark.jpg" alt="Anthony" style="width: 300px; height: auto;">
+</div>
 
 
