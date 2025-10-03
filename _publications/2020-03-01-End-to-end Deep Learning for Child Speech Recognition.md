@@ -17,6 +17,6 @@ provide additional error analysis on our best
 model and discussion of the results.'
 pub_date: 2020-03-01
 venue: 'Stanford CS224U: Natural Language Understanding'
-paperurl: 'https://anthonygalczak.com/files/End-to-end Deep Learning for Child Speech Recognition.pdf'
+paperurl: 'https://anthonygalczak.com/files/End-to-end%20Deep%20Learning%20for%20Child%20Speech%20Recognition.pdf'
 ---
 
